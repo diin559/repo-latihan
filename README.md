@@ -1,0 +1,2 @@
+# repo-latihan
+buat presentasi
